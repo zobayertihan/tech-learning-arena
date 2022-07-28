@@ -11,3 +11,31 @@
 .imagess {
     filter: brightness(50%);
 }
+
+.color {
+    color: gold;
+}
+
+.ccn,
+.ccp {
+    height: 40px;
+    width: 40px;
+    outline: black;
+    margin-top: 150px;
+}
+
+.ccn {
+    margin-right: 1275px;
+    background-color: #289BDE;
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+.ccp {
+    margin-left: 1275px;
+    background-color: #0670cd;
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    border: 1px solid black;
+}
