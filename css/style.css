@@ -1,11 +1,6 @@
-.carousel-caption {
+.caption {
     top: 50%;
-    transform: translateY(-50%);
-    bottom: initial;
-    /* display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center; */
+    transform: translateY(-30%);
 }
 
 .imagess {
@@ -14,6 +9,10 @@
 
 .color {
     color: gold;
+}
+
+.bgc {
+    background: #F4FAFD;
 }
 
 .ccn,
